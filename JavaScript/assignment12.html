@@ -1,0 +1,48 @@
+<html>
+<h1 align="center"> First , Last , Email , Mob no. </h1>
+<hr>
+
+<body>
+    First Name : <input type="text" id="num1" /> <br> <br>
+    Last Name : <input type="text" id="num2" /> <br> <br>
+    Email : <input type="text" id="num3" /> <br> <br>
+    Mob No. : <input type="text" id="num4" /> <br> <br>
+
+
+    <input type="button" value="Submit" onclick="Submit();" />
+
+    <br> <br> <span id="res"> First Name : </span>
+    <br> <br> <span id="res1"> Last Name : </span>
+    <br> <br> <span id="res2"> Email : </span>
+    <br> <br> <span id="res3"> Mob No. : </span>
+
+
+
+
+</body>
+<script language="javascript">
+    function Submit() {
+        var firstname, lastname, emial, mobno;
+        firstname = (document.getElementById("num1").value);
+        lastname = (document.getElementById("num2").value);
+        email = (document.getElementById("num3").value);
+        mobno = (document.getElementById("num4").value);
+
+
+
+
+        document.getElementById("res").innerHTML = "First Name =" + firstname + "<br>";
+        document.getElementById("res1").innerHTML = "Last Name =" + lastname + "<br>";
+        document.getElementById("res2").innerHTML = "Email =" + email + "<br>";
+        document.getElementById("res3").innerHTML = "Mob No. =" + mobno + "<br>";
+
+
+
+
+    }
+
+
+
+</script>
+
+</html>

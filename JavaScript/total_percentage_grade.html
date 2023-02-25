@@ -1,0 +1,46 @@
+<html>
+<h1 align="center"> Total Percentage Grade </h1>
+<hr>
+
+<body>
+    Enter Maths Mark : <input type="text" id="mark1" /> <br> <br>
+    Enter Physics Mark : <input type="text" id="mark2" /> <br> <br>
+    Enter Chemistry Mark : <input type="text" id="mark3" /> <br> <br>
+
+
+    <input type="button" value="Check" onclick="Check1();" />
+    <br> <br> <span id="tot"> Total </span>
+    <br> <br> <span id="per"> Percentage </span>
+    <br> <br> <span id="grd"> Grade </span>
+
+
+</body>
+<script language="javascript">
+    function Check1() {
+        var maths, physics, chemistry, total, percentage, grade;
+        maths = parseInt(document.getElementById("mark1").value);
+        physics = parseInt(document.getElementById("mark2").value);
+        chemistry = parseInt(document.getElementById("mark3").value);
+
+
+        total = maths + physics + chemistry;
+        document.getElementById("tot").innerHTML = " total : " + total;
+
+        percentage = total * 0.3;
+        document.getElementById("per").innerHTML = " percentage : " + percentage;
+
+        if (per >= 75) {
+            document.getElementById("grd").innerHTML = " grade is distinction";
+        }
+        else if (per >= 60 && per < 75) {
+            document.getElementById("grd").innerHTML = " grade is first class";
+        }
+        else {
+            document.getElementById("grd").innerHTML = " grade is So sorry your are fail";
+
+        }
+    }
+
+</script>
+
+</html>

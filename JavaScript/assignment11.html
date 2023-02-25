@@ -1,0 +1,32 @@
+<html>
+<h1 align="center"> product & rate & quantity </h1>
+<hr>
+
+<body>
+    Product Name : <input type="text" id="num1" /> <br> <br>
+    Rate : <input type="text" id="num2" /> <br> <br>
+    Quantity : <input type="text" id="num3" /> <br> <br>
+
+    <input type="button" value="OK" onclick="Ok();" />
+
+    <br> <br> <span id="res"> Total Amount : </span>
+
+</body>
+<script language="javascript">
+    function Ok() {
+        var rate, quantity, result;
+        rate = parseInt(document.getElementById("num2").value);
+        quantity = parseInt(document.getElementById("num3").value);
+
+        result = rate * quantity;
+        alert(" total amount is : " + result);
+
+        document.getElementById("res").innerHTML = "Result =" + result + "<br>";
+
+    }
+
+
+
+</script>
+
+</html>

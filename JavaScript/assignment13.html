@@ -1,0 +1,36 @@
+<html>
+<h1 align="center"> Bank Details </h1>
+<hr>
+
+<body>
+    Enter Acc No : <input type="text" id="acc" /> <br> <br>
+    Enter Initial Balanace : <input type="text" id="intbal" /> <br> <br>
+    Enter Amount : <input type="text" id="amt" /> <br> <br>
+
+
+    <input type="button" value="deposit" onclick="Deposit();" />
+    <input type="button" value="withdrawal" onclick="Withdrawal();" />
+
+    <br> <br> <span id="bal"> Balance : </span>
+
+</body>
+<script language="javascript">
+    function Deposit() {
+        var inbal, amount, balance;
+        inbal = parseInt(document.getElementById("intbal").value);
+        amount = parseInt(document.getElementById("amt").value);
+
+
+        balance = inbal + amount;
+
+        document.getElementById("bal").innerHTML = " inbal =" + inbal;
+        document.getElementById("bal").innerHTML = " amt =" + amount;
+
+
+    }
+
+
+
+</script>
+
+</html>

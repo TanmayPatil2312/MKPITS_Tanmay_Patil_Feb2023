@@ -1,0 +1,37 @@
+<html>
+<h1 align="center">Total & Percentage </h1>
+<hr>
+
+<body>
+    Maths Marks : <input type="text" id="mark1" /> <br> <br>
+    Physics Marks : <input type="text" id="mark2" /> <br> <br>
+    Chemistry Marks : <input type="text" id="mark3" /> <br> <br>
+
+    <input type="button" value="Result" onclick="Result();" />
+
+    <br> <br> <span id="res"> Total : </span>
+    <br> <br> <span id="per"> Percentage : </span>
+
+</body>
+<script language="javascript">
+    function Result() {
+        var number1, number2, number3, result;
+        number1 = parseInt(document.getElementById("mark1").value);
+        number2 = parseInt(document.getElementById("mark2").value);
+        number3 = parseInt(document.getElementById("mark3").value);
+
+        result = number1 + number2 + number3;
+        percentage = result / 300 * 100;
+        alert(" total is : " + result);
+        alert(" percentage is : " + percentage);
+
+        document.getElementById("res").innerHTML = "Result =" + result + "<br>";
+        document.getElementById("per").innerHTML = "percentage =" + percentage;
+
+    }
+
+
+
+</script>
+
+</html>
