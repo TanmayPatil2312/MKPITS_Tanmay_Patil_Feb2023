@@ -1,0 +1,28 @@
+<html>
+
+<head>
+    <h1 align="center"> JavaScript advanced if else program </h1>
+</head>
+
+<body>
+    Enter side 1 : <input type="text" name="n1" /> <br>
+    Enter side 2 : <input type="text" name="n2" /> <br>
+    Enter side 3 : <input type="text" name="n3" /> <br>
+
+    <input type="button" value="submit" onclick="findTrisngleType(document.getElementsByName('n1')[0].value,
+    document.getElementsByName('n2')[0].value,document.getElementsByName('n3')[0].value);" />
+</body>
+
+<script>
+    function findTrisngleType(side1, side2, side3) {
+        if ((side1 == side2) && (side1 == side3)) {
+            alert("Eqvilateral Triangle");
+        }
+        else if ((side1 == side2) || (side2 == side3) || (side1 == side3)) {
+            alert("Isosceles Triangle");
+        }
+        else {
+            alert("Scalene triangle");
+        }
+    }
+</script>
