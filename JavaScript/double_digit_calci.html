@@ -1,0 +1,135 @@
+<html>
+<style>
+    td {
+        text-align: center;
+    }
+
+    form {
+        margin-left: 35%;
+    }
+</style>
+<form name="f1" style="width:400px; height:400px; border:1px solid gray; background-color: pink;">
+    <table width=100% align=center>
+        <tr>
+            <td><input type=text name="t1" style="width:100%;padding:5px; background-color: aquamarine;" /></td>
+        </tr>
+    </table>
+    <table width=100% align=center>
+        <tr>
+            <td><input type=button name="b1" value="1" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show1();" /></td>
+            <td><input type=button name="b2" value="2" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show2();" /></td>
+            <td><input type=button name="b3" value="3" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show3();" /></td>
+            <td><input type=button name="b4" value="4" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show4();" /></td>
+        </tr>
+
+        <tr>
+            <td><input type=button name="b5" value="5" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show5();" /></td>
+            <td><input type=button name="b6" value="6" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show6();" /></td>
+            <td><input type=button name="b7" value="7" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show7();" /></td>
+            <td><input type=button name="b8" value="8" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show8();" /></td>
+        </tr>
+        <tr>
+
+            <td><input type=button name="b9" value="9" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show9();" /></td>
+            <td><input type=button name="b0" value="0" style="padding:25px; background-color: #b9f2ff;"
+                    onclick="show0();" /></td>
+            <td><input type=button name="b4" value="+" style="padding:25px; background-color: #a6e7ff;"
+                    onclick="showplus();" /></td>
+            <td><input type=button name="b5" value="-" style="padding:25px; background-color: #a6e7ff;"
+                    onclick="showminus();" /></td>
+        </tr>
+        <tr>
+            <td><input type=button name="" value="*" style="padding:25px; background-color: #a6e7ff;"
+                    onclick="showmul();" /></td>
+            <td><input type=button name="" value="/" style="padding:25px; background-color: #a6e7ff;"
+                    onclick="showdiv();" /></td>
+            <td><input type=button name="" value="=" style="padding:25px; background-color: #a6e7ff;"
+                    onclick="showresult();" /></td>
+            <td><input type=button value="CE" style="padding:25px; background-color: #a6e7ff;" onclick="showCE();" />
+            </td>
+        </tr>
+    </table>
+
+    <script language="JavaScript">
+        var prevnum = 0;
+        var operator;
+        function show1() {
+            document.f1.t1.value = document.f1.t1.value + "1";
+        }
+        function show2() {
+            document.f1.t1.value = document.f1.t1.value + "2";
+        }
+        function show3() {
+            document.f1.t1.value = document.f1.t1.value + "3";
+        }
+        function show4() {
+            document.f1.t1.value = document.f1.t1.value + "4";
+        }
+        function show5() {
+            document.f1.t1.value = document.f1.t1.value + "5";
+        }
+        function show6() {
+            document.f1.t1.value = document.f1.t1.value + "6";
+        }
+        function show7() {
+            document.f1.t1.value = document.f1.t1.value + "7";
+        }
+        function show8() {
+            document.f1.t1.value = document.f1.t1.value + "8";
+        }
+        function show9() {
+            document.f1.t1.value = document.f1.t1.value + "9";
+        }
+        function show0() {
+            document.f1.t1.value = document.f1.t1.value + "0";
+        }
+        function showminus() {
+            prevnum = document.f1.t1.value;
+            document.f1.t1.value = "-";
+            operator = "-";
+        }
+        function showplus() {
+            prevnum = document.f1.t1.value;
+            document.f1.t1.value = "+";
+            operator = "+";
+        }
+        function showmul() {
+            prevnum = document.f1.t1.value;
+            document.f1.t1.value = "*";
+            operator = "*";
+        }
+        function showdiv() {
+            prevnum = document.f1.t1.value;
+            document.f1.t1.value = "/";
+            operator = "/";
+        }
+        function showCE() {
+            document.f1.t1.value = "";
+        }
+        function showresult() {
+            var result = 0;
+            if (operator == '+') {
+                result = parseInt(prevnum) + parseInt(document.f1.t1.value);
+            }
+            else if (operator == '-') {
+                result = parseInt(prevnum) - parseInt(document.f1.t1.value);
+            }
+            else if (operator == '*') {
+                result = parseInt(prevnum) * parseInt(document.f1.t1.value);
+            }
+            else if (operator == '/') {
+                result = parseInt(prevnum) / parseInt(document.f1.t1.value);
+            }
+            document.f1.t1.value = result;
+        }
+
+    </script>

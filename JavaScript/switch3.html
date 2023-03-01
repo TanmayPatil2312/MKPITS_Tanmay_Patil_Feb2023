@@ -1,0 +1,48 @@
+<html>
+<h1 align="center"> Switch Operator </h1>
+<hr>
+
+<body>
+    Enter Alphabet : <input type="text" id="n1" /> <br> <br>
+
+
+    <input type="button" value="Result" onclick="vowel();" />
+    <br> <br>
+
+    <script language="javascript">
+        function vowel() {
+            var alphabet, result;
+            alphabet = document.getElementById("n1").value;
+
+            switch (alphabet) {
+                case 'a':
+                    result = "It is a vowel";
+                    break;
+
+                case 'e':
+                    result = "It is a vowel";
+                    break;
+
+                case 'i':
+                    result = "It is a vowel";
+                    break;
+
+                case 'o':
+                    result = "It is a vowel";
+                    break;
+
+                case 'u':
+                    result = "It is a vowel";
+                    break;
+
+
+                default:
+                    result = "It is not a vowel";
+                    break;
+            }
+            alert(" result  : " + result);
+        }
+    </script>
+</body>
+
+</html>
