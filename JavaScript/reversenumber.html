@@ -1,0 +1,15 @@
+<html>
+<h2> write a program to print reverse of a 3 digit numbers. <h2>
+
+        <script>
+            var num = 123;
+            var digit1 = num % 10;
+            var digit2 = Math.floor(num / 10) % 10;
+            var digit3 = Math.floor(num / 100);
+            var revnumber = (digit1 * 100) + (digit2 * 10) + digit3;
+            // document.write("    Rev Number   " + revnumber);
+            document.write("Reverse Number : " + digit1 + digit2 + digit3);
+
+        </script>
+
+</html>

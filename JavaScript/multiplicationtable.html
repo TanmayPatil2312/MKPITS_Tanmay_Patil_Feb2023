@@ -1,0 +1,42 @@
+<html>
+<h1 align="center"> Tables program </h1>
+
+<body>
+    Enter No : <input type=" text " id="f1" />
+    <br>
+    <input type="button" value="Result" onclick="show();" />
+
+</body>
+<script>
+    function show() {
+        var num, result = 1, counter = 1;
+        num = parseInt(document.getElementById("f1").value);
+        while (counter <= 10) {
+            result = num * counter;
+            document.write(num + "*" + counter + "=" + result);
+            document.write("<br>");
+            counter = counter + 1
+        }
+
+
+
+    }
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

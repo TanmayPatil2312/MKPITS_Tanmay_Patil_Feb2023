@@ -1,0 +1,39 @@
+<html>
+
+<body>
+    Enter No : <input type=" text " id="f1" />
+    <br>
+    <input type="button" value="Result" onclick="show();" />
+
+</body>
+<script>
+    function show() {
+        var num = parseInt(document.getElementById("f1").value);
+        var fact = 1;
+        do {
+            fact = fact * num;
+            num = num - 1;
+        } while (num > 0)
+
+        document.write("factorial of no is " + fact);
+
+    }
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>

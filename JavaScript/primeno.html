@@ -1,0 +1,31 @@
+<html>
+<h2 align="center"> write a program to accept a number and print wheater it is a prime no or not ? </h2>
+
+<body>
+    Enter Number : <input type="text" id="t1" /> <br> <br>
+
+    <input type="button" value=" Prime/NotPrime " onclick="check();" />
+    <br> <br> <span id="res"> Result : </span>
+</body>
+<script>
+    function check() {
+        var num = document.getElementById("t1").value;
+        var counter;
+        var flag = 0;
+        for (counter = 2; counter < num; counter++) {
+            if (num % counter == 0) {
+                flag = 1;
+                break;
+            }
+        }
+        if (flag == 0) {
+            alert(" prime no. ");
+        }
+        else {
+            alert(" Not a prime No  ");
+        }
+
+    }
+</script>
+
+</html>
