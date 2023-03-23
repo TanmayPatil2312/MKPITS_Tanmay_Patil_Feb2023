@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_number\add_sub_number\bin\Debug\add_sub_number.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_number\add_sub_number\bin\Debug\add_sub_number.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_number\add_sub_number\bin\Debug\add_sub_number.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_number\add_sub_number\obj\Debug\add_sub_number.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_number\add_sub_number\obj\Debug\add_sub_number.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_number\add_sub_number\obj\Debug\add_sub_number.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_number\add_sub_number\obj\Debug\add_sub_number.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_number\add_sub_number\obj\Debug\add_sub_number.pdb
