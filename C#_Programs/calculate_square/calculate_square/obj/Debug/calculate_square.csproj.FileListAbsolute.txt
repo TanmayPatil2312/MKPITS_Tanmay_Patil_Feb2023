@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\calculate_square\calculate_square\bin\Debug\calculate_square.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\calculate_square\calculate_square\bin\Debug\calculate_square.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\calculate_square\calculate_square\bin\Debug\calculate_square.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\calculate_square\calculate_square\obj\Debug\calculate_square.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\calculate_square\calculate_square\obj\Debug\calculate_square.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\calculate_square\calculate_square\obj\Debug\calculate_square.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\calculate_square\calculate_square\obj\Debug\calculate_square.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\calculate_square\calculate_square\obj\Debug\calculate_square.pdb
