@@ -1,0 +1,15 @@
+<html>
+<h2> math.random function program </h2>
+
+<body>
+    <p id="demo1"> Demo 1 </p>
+    <p id="demo2"> Demo 2 </p>
+    <input type="button" value="Start" onclick="start()" />
+</body>
+
+<script>
+    function start() {
+        document.getElementById("demo1").innerHTML = Math.random();
+        document.getElementById("demo2").innerHTML = Math.floor(Math.random() * 11) + 1;
+    }
+</script>

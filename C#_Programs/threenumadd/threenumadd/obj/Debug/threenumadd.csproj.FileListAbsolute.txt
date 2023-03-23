@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\threenumadd\threenumadd\bin\Debug\threenumadd.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\threenumadd\threenumadd\bin\Debug\threenumadd.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\threenumadd\threenumadd\bin\Debug\threenumadd.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\threenumadd\threenumadd\obj\Debug\threenumadd.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\threenumadd\threenumadd\obj\Debug\threenumadd.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\threenumadd\threenumadd\obj\Debug\threenumadd.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\threenumadd\threenumadd\obj\Debug\threenumadd.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\threenumadd\threenumadd\obj\Debug\threenumadd.pdb

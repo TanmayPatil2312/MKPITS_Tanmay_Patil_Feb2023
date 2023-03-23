@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\area_rect\area_rect\bin\Debug\area_rect.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\area_rect\area_rect\bin\Debug\area_rect.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\area_rect\area_rect\bin\Debug\area_rect.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\area_rect\area_rect\obj\Debug\area_rect.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\area_rect\area_rect\obj\Debug\area_rect.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\area_rect\area_rect\obj\Debug\area_rect.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\area_rect\area_rect\obj\Debug\area_rect.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\area_rect\area_rect\obj\Debug\area_rect.pdb

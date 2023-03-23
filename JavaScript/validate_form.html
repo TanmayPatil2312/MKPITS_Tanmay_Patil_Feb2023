@@ -1,0 +1,28 @@
+<html>
+<h1> validate ths username and password . </h1>
+
+
+<body>
+    Enter UserName : <input type="text" id="un" /> <br> <br>
+
+    Enter Password : <input type="text" id="up" /> <br> <br>
+
+    <input type="button" value="Result" onclick="check();" />
+
+</body>
+
+<script>
+    function check() {
+        var username = (document.getElementById("un").value);
+        var pwd = (document.getElementById("up").value);
+
+        if (username == "" && pwd == "") {
+            alert("Please Enter valid username and password");
+        }
+        else {
+            alert(" Welcome User Chutiye : " + username);
+        }
+    }
+</script>
+
+</html>

@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\user_name\user_name\bin\Debug\user_name.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\user_name\user_name\bin\Debug\user_name.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\user_name\user_name\bin\Debug\user_name.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\user_name\user_name\obj\Debug\user_name.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\user_name\user_name\obj\Debug\user_name.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\user_name\user_name\obj\Debug\user_name.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\user_name\user_name\obj\Debug\user_name.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\user_name\user_name\obj\Debug\user_name.pdb
