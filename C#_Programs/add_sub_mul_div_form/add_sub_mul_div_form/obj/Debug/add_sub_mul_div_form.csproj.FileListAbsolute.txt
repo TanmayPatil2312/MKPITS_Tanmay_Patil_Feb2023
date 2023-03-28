@@ -1,0 +1,11 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\bin\Debug\add_sub_mul_div_form.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\bin\Debug\add_sub_mul_div_form.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\bin\Debug\add_sub_mul_div_form.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\obj\Debug\add_sub_mul_div_form.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\obj\Debug\add_sub_mul_div_form.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\obj\Debug\add_sub_mul_div_form.Form1.resources
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\obj\Debug\add_sub_mul_div_form.Properties.Resources.resources
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\obj\Debug\add_sub_mul_div_form.csproj.GenerateResource.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\obj\Debug\add_sub_mul_div_form.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\obj\Debug\add_sub_mul_div_form.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\add_sub_mul_div_form\add_sub_mul_div_form\obj\Debug\add_sub_mul_div_form.pdb

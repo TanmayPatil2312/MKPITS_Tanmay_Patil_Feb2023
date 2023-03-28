@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\inverted_pyramid\inverted_pyramid\bin\Debug\inverted_pyramid.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\inverted_pyramid\inverted_pyramid\bin\Debug\inverted_pyramid.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\inverted_pyramid\inverted_pyramid\bin\Debug\inverted_pyramid.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\inverted_pyramid\inverted_pyramid\obj\Debug\inverted_pyramid.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\inverted_pyramid\inverted_pyramid\obj\Debug\inverted_pyramid.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\inverted_pyramid\inverted_pyramid\obj\Debug\inverted_pyramid.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\inverted_pyramid\inverted_pyramid\obj\Debug\inverted_pyramid.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\inverted_pyramid\inverted_pyramid\obj\Debug\inverted_pyramid.pdb

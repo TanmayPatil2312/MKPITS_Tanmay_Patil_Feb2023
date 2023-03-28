@@ -1,0 +1,11 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\bin\Debug\greater_&_smaller.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\bin\Debug\greater_&_smaller.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\bin\Debug\greater_&_smaller.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\obj\Debug\greater_&_smaller.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\obj\Debug\greater_&_smaller.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\obj\Debug\greater___smaller.Form1.resources
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\obj\Debug\greater___smaller.Properties.Resources.resources
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\obj\Debug\greater_&_smaller.csproj.GenerateResource.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\obj\Debug\greater_&_smaller.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\obj\Debug\greater_&_smaller.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\greater_&_smaller\greater_&_smaller\obj\Debug\greater_&_smaller.pdb

@@ -1,0 +1,11 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\bin\Debug\factorial_form.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\bin\Debug\factorial_form.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\bin\Debug\factorial_form.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\obj\Debug\factorial_form.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\obj\Debug\factorial_form.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\obj\Debug\factorial_form.Form1.resources
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\obj\Debug\factorial_form.Properties.Resources.resources
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\obj\Debug\factorial_form.csproj.GenerateResource.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\obj\Debug\factorial_form.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\obj\Debug\factorial_form.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\factorial_form\factorial_form\obj\Debug\factorial_form.pdb

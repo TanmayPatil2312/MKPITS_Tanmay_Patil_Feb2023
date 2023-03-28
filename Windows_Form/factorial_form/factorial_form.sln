@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "factorial_form", "factorial_form\factorial_form.csproj", "{406159E0-36A9-41AF-8F6C-8571718778D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{406159E0-36A9-41AF-8F6C-8571718778D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{406159E0-36A9-41AF-8F6C-8571718778D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{406159E0-36A9-41AF-8F6C-8571718778D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{406159E0-36A9-41AF-8F6C-8571718778D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C68661FC-B59A-4128-9C30-27C8CB2DFD8A}
+	EndGlobalSection
+EndGlobal

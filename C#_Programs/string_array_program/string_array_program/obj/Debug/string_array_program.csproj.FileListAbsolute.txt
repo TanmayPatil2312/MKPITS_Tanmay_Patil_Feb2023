@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\string_array_program\string_array_program\bin\Debug\string_array_program.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\string_array_program\string_array_program\bin\Debug\string_array_program.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\string_array_program\string_array_program\bin\Debug\string_array_program.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\string_array_program\string_array_program\obj\Debug\string_array_program.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\string_array_program\string_array_program\obj\Debug\string_array_program.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\string_array_program\string_array_program\obj\Debug\string_array_program.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\string_array_program\string_array_program\obj\Debug\string_array_program.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\string_array_program\string_array_program\obj\Debug\string_array_program.pdb
