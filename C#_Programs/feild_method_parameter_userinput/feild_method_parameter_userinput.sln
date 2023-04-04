@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "feild_method_parameter_userinput", "feild_method_parameter_userinput\feild_method_parameter_userinput.csproj", "{CE33EFBC-CC41-4C4E-B267-FA99B2A23F17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE33EFBC-CC41-4C4E-B267-FA99B2A23F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE33EFBC-CC41-4C4E-B267-FA99B2A23F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE33EFBC-CC41-4C4E-B267-FA99B2A23F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE33EFBC-CC41-4C4E-B267-FA99B2A23F17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECC7FE2A-35D4-471D-92BD-5B5C6215D0D6}
+	EndGlobalSection
+EndGlobal

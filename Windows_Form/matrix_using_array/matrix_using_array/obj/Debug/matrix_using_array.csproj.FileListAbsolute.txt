@@ -1,0 +1,6 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\matrix_using_array\matrix_using_array\obj\Debug\matrix_using_array.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\matrix_using_array\matrix_using_array\obj\Debug\matrix_using_array.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\matrix_using_array\matrix_using_array\obj\Debug\matrix_using_array.Form1.resources
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\matrix_using_array\matrix_using_array\obj\Debug\matrix_using_array.Properties.Resources.resources
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\matrix_using_array\matrix_using_array\obj\Debug\matrix_using_array.csproj.GenerateResource.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\Windows_Form\matrix_using_array\matrix_using_array\obj\Debug\matrix_using_array.csproj.CoreCompileInputs.cache
