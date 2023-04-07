@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\car_manufacturer\car_manufacturer\bin\Debug\car_manufacturer.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\car_manufacturer\car_manufacturer\bin\Debug\car_manufacturer.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\car_manufacturer\car_manufacturer\bin\Debug\car_manufacturer.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\car_manufacturer\car_manufacturer\obj\Debug\car_manufacturer.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\car_manufacturer\car_manufacturer\obj\Debug\car_manufacturer.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\car_manufacturer\car_manufacturer\obj\Debug\car_manufacturer.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\car_manufacturer\car_manufacturer\obj\Debug\car_manufacturer.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\car_manufacturer\car_manufacturer\obj\Debug\car_manufacturer.pdb

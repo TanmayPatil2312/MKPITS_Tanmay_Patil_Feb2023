@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\constructor\constructor\bin\Debug\constructor.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\constructor\constructor\bin\Debug\constructor.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\constructor\constructor\bin\Debug\constructor.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\constructor\constructor\obj\Debug\constructor.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\constructor\constructor\obj\Debug\constructor.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\constructor\constructor\obj\Debug\constructor.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\constructor\constructor\obj\Debug\constructor.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\constructor\constructor\obj\Debug\constructor.pdb

@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\parrot_inher_example\parrot_inher_example\bin\Debug\parrot_inher_example.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\parrot_inher_example\parrot_inher_example\bin\Debug\parrot_inher_example.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\parrot_inher_example\parrot_inher_example\bin\Debug\parrot_inher_example.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\parrot_inher_example\parrot_inher_example\obj\Debug\parrot_inher_example.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\parrot_inher_example\parrot_inher_example\obj\Debug\parrot_inher_example.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\parrot_inher_example\parrot_inher_example\obj\Debug\parrot_inher_example.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\parrot_inher_example\parrot_inher_example\obj\Debug\parrot_inher_example.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\parrot_inher_example\parrot_inher_example\obj\Debug\parrot_inher_example.pdb
