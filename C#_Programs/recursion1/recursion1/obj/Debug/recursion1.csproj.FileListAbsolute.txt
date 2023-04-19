@@ -1,0 +1,8 @@
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\recursion1\recursion1\bin\Debug\recursion1.exe.config
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\recursion1\recursion1\bin\Debug\recursion1.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\recursion1\recursion1\bin\Debug\recursion1.pdb
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\recursion1\recursion1\obj\Debug\recursion1.csproj.AssemblyReference.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\recursion1\recursion1\obj\Debug\recursion1.csproj.SuggestedBindingRedirects.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\recursion1\recursion1\obj\Debug\recursion1.csproj.CoreCompileInputs.cache
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\recursion1\recursion1\obj\Debug\recursion1.exe
+E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\recursion1\recursion1\obj\Debug\recursion1.pdb
