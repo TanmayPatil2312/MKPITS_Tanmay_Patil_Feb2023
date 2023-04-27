@@ -98,7 +98,7 @@ namespace movie_form
                 mt = new Box_Office( Convert.ToInt32(numericUpDown1.Value), Convert.ToSingle(textBox1.Text));
 
             }
-            label7.Text = mt.Calculate_Ticket_Price();
+             label7.Text = mt.Calculate_Ticket_Price();
         }
     }
 }
