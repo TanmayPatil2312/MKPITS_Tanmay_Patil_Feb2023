@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\1D_array_example\1D_array_example\bin\Debug\1D_array_example.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\1D_array_example\1D_array_example\bin\Debug\1D_array_example.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\1D_array_example\1D_array_example\bin\Debug\1D_array_example.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\1D_array_example\1D_array_example\obj\Debug\1D_array_example.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\1D_array_example\1D_array_example\obj\Debug\1D_array_example.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\1D_array_example\1D_array_example\obj\Debug\1D_array_example.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\1D_array_example\1D_array_example\obj\Debug\1D_array_example.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\1D_array_example\1D_array_example\obj\Debug\1D_array_example.pdb
