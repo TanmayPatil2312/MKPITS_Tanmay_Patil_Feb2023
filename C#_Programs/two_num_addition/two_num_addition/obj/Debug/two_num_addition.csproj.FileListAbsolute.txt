@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\two_num_addition\two_num_addition\bin\Debug\two_num_addition.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\two_num_addition\two_num_addition\bin\Debug\two_num_addition.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\two_num_addition\two_num_addition\bin\Debug\two_num_addition.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\two_num_addition\two_num_addition\obj\Debug\two_num_addition.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\two_num_addition\two_num_addition\obj\Debug\two_num_addition.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\two_num_addition\two_num_addition\obj\Debug\two_num_addition.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\two_num_addition\two_num_addition\obj\Debug\two_num_addition.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\two_num_addition\two_num_addition\obj\Debug\two_num_addition.pdb

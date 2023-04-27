@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\var_len_params_prog\var_len_params_prog\bin\Debug\var_len_params_prog.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\var_len_params_prog\var_len_params_prog\bin\Debug\var_len_params_prog.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\var_len_params_prog\var_len_params_prog\bin\Debug\var_len_params_prog.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\var_len_params_prog\var_len_params_prog\obj\Debug\var_len_params_prog.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\var_len_params_prog\var_len_params_prog\obj\Debug\var_len_params_prog.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\var_len_params_prog\var_len_params_prog\obj\Debug\var_len_params_prog.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\var_len_params_prog\var_len_params_prog\obj\Debug\var_len_params_prog.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\var_len_params_prog\var_len_params_prog\obj\Debug\var_len_params_prog.pdb

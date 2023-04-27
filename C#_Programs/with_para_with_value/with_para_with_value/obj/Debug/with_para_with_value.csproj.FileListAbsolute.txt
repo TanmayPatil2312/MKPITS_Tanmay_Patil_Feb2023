@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\with_para_with_value\with_para_with_value\bin\Debug\with_para_with_value.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\with_para_with_value\with_para_with_value\bin\Debug\with_para_with_value.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\with_para_with_value\with_para_with_value\bin\Debug\with_para_with_value.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\with_para_with_value\with_para_with_value\obj\Debug\with_para_with_value.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\with_para_with_value\with_para_with_value\obj\Debug\with_para_with_value.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\with_para_with_value\with_para_with_value\obj\Debug\with_para_with_value.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\with_para_with_value\with_para_with_value\obj\Debug\with_para_with_value.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\with_para_with_value\with_para_with_value\obj\Debug\with_para_with_value.pdb

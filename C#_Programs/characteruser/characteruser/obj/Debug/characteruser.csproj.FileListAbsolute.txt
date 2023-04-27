@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\characteruser\characteruser\obj\Debug\characteruser.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\characteruser\characteruser\obj\Debug\characteruser.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\characteruser\characteruser\obj\Debug\characteruser.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\characteruser\characteruser\bin\Debug\characteruser.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\characteruser\characteruser\bin\Debug\characteruser.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\characteruser\characteruser\bin\Debug\characteruser.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\characteruser\characteruser\obj\Debug\characteruser.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\characteruser\characteruser\obj\Debug\characteruser.pdb

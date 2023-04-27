@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\twonumgreater\twonumgreater\bin\Debug\twonumgreater.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\twonumgreater\twonumgreater\bin\Debug\twonumgreater.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\twonumgreater\twonumgreater\bin\Debug\twonumgreater.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\twonumgreater\twonumgreater\obj\Debug\twonumgreater.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\twonumgreater\twonumgreater\obj\Debug\twonumgreater.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\twonumgreater\twonumgreater\obj\Debug\twonumgreater.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\twonumgreater\twonumgreater\obj\Debug\twonumgreater.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\twonumgreater\twonumgreater\obj\Debug\twonumgreater.pdb

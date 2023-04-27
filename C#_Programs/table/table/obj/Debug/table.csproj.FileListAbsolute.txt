@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\table\table\obj\Debug\table.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\table\table\obj\Debug\table.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\table\table\obj\Debug\table.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\table\table\bin\Debug\table.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\table\table\bin\Debug\table.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\table\table\bin\Debug\table.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\table\table\obj\Debug\table.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\table\table\obj\Debug\table.pdb

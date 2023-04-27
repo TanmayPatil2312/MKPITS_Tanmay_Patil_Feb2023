@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_or_not\prime_or_not\bin\Debug\prime_or_not.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_or_not\prime_or_not\bin\Debug\prime_or_not.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_or_not\prime_or_not\bin\Debug\prime_or_not.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_or_not\prime_or_not\obj\Debug\prime_or_not.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_or_not\prime_or_not\obj\Debug\prime_or_not.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_or_not\prime_or_not\obj\Debug\prime_or_not.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_or_not\prime_or_not\obj\Debug\prime_or_not.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_or_not\prime_or_not\obj\Debug\prime_or_not.pdb

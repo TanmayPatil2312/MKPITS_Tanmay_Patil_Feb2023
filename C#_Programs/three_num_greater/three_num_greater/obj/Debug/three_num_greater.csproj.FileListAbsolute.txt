@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\three_num_greater\three_num_greater\bin\Debug\three_num_greater.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\three_num_greater\three_num_greater\bin\Debug\three_num_greater.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\three_num_greater\three_num_greater\bin\Debug\three_num_greater.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\three_num_greater\three_num_greater\obj\Debug\three_num_greater.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\three_num_greater\three_num_greater\obj\Debug\three_num_greater.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\three_num_greater\three_num_greater\obj\Debug\three_num_greater.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\three_num_greater\three_num_greater\obj\Debug\three_num_greater.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\three_num_greater\three_num_greater\obj\Debug\three_num_greater.pdb

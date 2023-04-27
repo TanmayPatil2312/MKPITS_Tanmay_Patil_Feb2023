@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\byteprogram\byteprogram\bin\Debug\byteprogram.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\byteprogram\byteprogram\bin\Debug\byteprogram.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\byteprogram\byteprogram\bin\Debug\byteprogram.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\byteprogram\byteprogram\obj\Debug\byteprogram.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\byteprogram\byteprogram\obj\Debug\byteprogram.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\byteprogram\byteprogram\obj\Debug\byteprogram.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\byteprogram\byteprogram\obj\Debug\byteprogram.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\byteprogram\byteprogram\obj\Debug\byteprogram.pdb

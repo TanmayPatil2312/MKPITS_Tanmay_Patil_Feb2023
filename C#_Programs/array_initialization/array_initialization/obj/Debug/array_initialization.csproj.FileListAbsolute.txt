@@ -1,3 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\array_initialization\array_initialization\obj\Debug\array_initialization.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\array_initialization\array_initialization\obj\Debug\array_initialization.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\array_initialization\array_initialization\obj\Debug\array_initialization.csproj.CoreCompileInputs.cache

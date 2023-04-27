@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\out_parameter_program\out_parameter_program\bin\Debug\out_parameter_program.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\out_parameter_program\out_parameter_program\bin\Debug\out_parameter_program.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\out_parameter_program\out_parameter_program\bin\Debug\out_parameter_program.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\out_parameter_program\out_parameter_program\obj\Debug\out_parameter_program.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\out_parameter_program\out_parameter_program\obj\Debug\out_parameter_program.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\out_parameter_program\out_parameter_program\obj\Debug\out_parameter_program.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\out_parameter_program\out_parameter_program\obj\Debug\out_parameter_program.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\out_parameter_program\out_parameter_program\obj\Debug\out_parameter_program.pdb

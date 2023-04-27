@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\factorial\factorial\obj\Debug\factorial.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\factorial\factorial\obj\Debug\factorial.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\factorial\factorial\obj\Debug\factorial.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\factorial\factorial\bin\Debug\factorial.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\factorial\factorial\bin\Debug\factorial.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\factorial\factorial\bin\Debug\factorial.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\factorial\factorial\obj\Debug\factorial.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\factorial\factorial\obj\Debug\factorial.pdb

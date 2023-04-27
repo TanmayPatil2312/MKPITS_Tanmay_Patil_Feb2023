@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\pass_by_value_ex\pass_by_value_ex\bin\Debug\pass_by_value_ex.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\pass_by_value_ex\pass_by_value_ex\bin\Debug\pass_by_value_ex.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\pass_by_value_ex\pass_by_value_ex\bin\Debug\pass_by_value_ex.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\pass_by_value_ex\pass_by_value_ex\obj\Debug\pass_by_value_ex.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\pass_by_value_ex\pass_by_value_ex\obj\Debug\pass_by_value_ex.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\pass_by_value_ex\pass_by_value_ex\obj\Debug\pass_by_value_ex.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\pass_by_value_ex\pass_by_value_ex\obj\Debug\pass_by_value_ex.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\pass_by_value_ex\pass_by_value_ex\obj\Debug\pass_by_value_ex.pdb

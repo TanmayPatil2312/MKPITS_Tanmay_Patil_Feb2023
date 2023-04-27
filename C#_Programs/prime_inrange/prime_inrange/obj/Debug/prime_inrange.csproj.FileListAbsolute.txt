@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_inrange\prime_inrange\bin\Debug\prime_inrange.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_inrange\prime_inrange\bin\Debug\prime_inrange.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_inrange\prime_inrange\bin\Debug\prime_inrange.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_inrange\prime_inrange\obj\Debug\prime_inrange.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_inrange\prime_inrange\obj\Debug\prime_inrange.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_inrange\prime_inrange\obj\Debug\prime_inrange.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_inrange\prime_inrange\obj\Debug\prime_inrange.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\prime_inrange\prime_inrange\obj\Debug\prime_inrange.pdb

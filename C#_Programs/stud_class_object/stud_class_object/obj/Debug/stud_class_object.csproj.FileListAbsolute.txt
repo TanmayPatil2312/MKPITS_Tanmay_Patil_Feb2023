@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stud_class_object\stud_class_object\bin\Debug\stud_class_object.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stud_class_object\stud_class_object\bin\Debug\stud_class_object.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stud_class_object\stud_class_object\bin\Debug\stud_class_object.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stud_class_object\stud_class_object\obj\Debug\stud_class_object.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stud_class_object\stud_class_object\obj\Debug\stud_class_object.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stud_class_object\stud_class_object\obj\Debug\stud_class_object.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stud_class_object\stud_class_object\obj\Debug\stud_class_object.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stud_class_object\stud_class_object\obj\Debug\stud_class_object.pdb

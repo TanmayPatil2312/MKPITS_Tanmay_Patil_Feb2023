@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\interface_2\interface_2\bin\Debug\interface_2.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\interface_2\interface_2\bin\Debug\interface_2.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\interface_2\interface_2\bin\Debug\interface_2.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\interface_2\interface_2\obj\Debug\interface_2.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\interface_2\interface_2\obj\Debug\interface_2.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\interface_2\interface_2\obj\Debug\interface_2.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\interface_2\interface_2\obj\Debug\interface_2.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\interface_2\interface_2\obj\Debug\interface_2.pdb

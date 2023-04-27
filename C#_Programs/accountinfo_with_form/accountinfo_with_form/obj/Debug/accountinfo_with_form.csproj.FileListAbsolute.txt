@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\accountinfo_with_form\accountinfo_with_form\bin\Debug\accountinfo_with_form.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\accountinfo_with_form\accountinfo_with_form\bin\Debug\accountinfo_with_form.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\accountinfo_with_form\accountinfo_with_form\bin\Debug\accountinfo_with_form.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\accountinfo_with_form\accountinfo_with_form\obj\Debug\accountinfo_with_form.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\accountinfo_with_form\accountinfo_with_form\obj\Debug\accountinfo_with_form.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\accountinfo_with_form\accountinfo_with_form\obj\Debug\accountinfo_with_form.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\accountinfo_with_form\accountinfo_with_form\obj\Debug\accountinfo_with_form.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\accountinfo_with_form\accountinfo_with_form\obj\Debug\accountinfo_with_form.pdb

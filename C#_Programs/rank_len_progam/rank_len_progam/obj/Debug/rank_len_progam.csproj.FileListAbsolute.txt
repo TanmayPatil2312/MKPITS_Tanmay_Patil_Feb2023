@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\rank_len_progam\rank_len_progam\bin\Debug\rank_len_progam.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\rank_len_progam\rank_len_progam\bin\Debug\rank_len_progam.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\rank_len_progam\rank_len_progam\bin\Debug\rank_len_progam.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\rank_len_progam\rank_len_progam\obj\Debug\rank_len_progam.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\rank_len_progam\rank_len_progam\obj\Debug\rank_len_progam.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\rank_len_progam\rank_len_progam\obj\Debug\rank_len_progam.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\rank_len_progam\rank_len_progam\obj\Debug\rank_len_progam.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\rank_len_progam\rank_len_progam\obj\Debug\rank_len_progam.pdb

@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hello_program\hello_program\bin\Debug\hello_program.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hello_program\hello_program\bin\Debug\hello_program.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hello_program\hello_program\bin\Debug\hello_program.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hello_program\hello_program\obj\Debug\hello_program.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hello_program\hello_program\obj\Debug\hello_program.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hello_program\hello_program\obj\Debug\hello_program.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hello_program\hello_program\obj\Debug\hello_program.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hello_program\hello_program\obj\Debug\hello_program.pdb

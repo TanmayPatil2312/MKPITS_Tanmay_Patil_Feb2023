@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stringuser\stringuser\bin\Debug\stringuser.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stringuser\stringuser\bin\Debug\stringuser.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stringuser\stringuser\bin\Debug\stringuser.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stringuser\stringuser\obj\Debug\stringuser.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stringuser\stringuser\obj\Debug\stringuser.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stringuser\stringuser\obj\Debug\stringuser.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stringuser\stringuser\obj\Debug\stringuser.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\stringuser\stringuser\obj\Debug\stringuser.pdb

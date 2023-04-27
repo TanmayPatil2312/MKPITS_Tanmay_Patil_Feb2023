@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\emp_single_lvl_inher\emp_single_lvl_inher\bin\Debug\emp_single_lvl_inher.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\emp_single_lvl_inher\emp_single_lvl_inher\bin\Debug\emp_single_lvl_inher.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\emp_single_lvl_inher\emp_single_lvl_inher\bin\Debug\emp_single_lvl_inher.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\emp_single_lvl_inher\emp_single_lvl_inher\obj\Debug\emp_single_lvl_inher.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\emp_single_lvl_inher\emp_single_lvl_inher\obj\Debug\emp_single_lvl_inher.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\emp_single_lvl_inher\emp_single_lvl_inher\obj\Debug\emp_single_lvl_inher.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\emp_single_lvl_inher\emp_single_lvl_inher\obj\Debug\emp_single_lvl_inher.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\emp_single_lvl_inher\emp_single_lvl_inher\obj\Debug\emp_single_lvl_inher.pdb

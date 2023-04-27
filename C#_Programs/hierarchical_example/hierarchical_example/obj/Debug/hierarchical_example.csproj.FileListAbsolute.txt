@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hierarchical_example\hierarchical_example\bin\Debug\hierarchical_example.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hierarchical_example\hierarchical_example\bin\Debug\hierarchical_example.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hierarchical_example\hierarchical_example\bin\Debug\hierarchical_example.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hierarchical_example\hierarchical_example\obj\Debug\hierarchical_example.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hierarchical_example\hierarchical_example\obj\Debug\hierarchical_example.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hierarchical_example\hierarchical_example\obj\Debug\hierarchical_example.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hierarchical_example\hierarchical_example\obj\Debug\hierarchical_example.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\hierarchical_example\hierarchical_example\obj\Debug\hierarchical_example.pdb

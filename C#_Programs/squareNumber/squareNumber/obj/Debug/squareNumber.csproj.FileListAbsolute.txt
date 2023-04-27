@@ -1,8 +1,0 @@
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\squareNumber\squareNumber\bin\Debug\squareNumber.exe.config
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\squareNumber\squareNumber\bin\Debug\squareNumber.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\squareNumber\squareNumber\bin\Debug\squareNumber.pdb
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\squareNumber\squareNumber\obj\Debug\squareNumber.csproj.AssemblyReference.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\squareNumber\squareNumber\obj\Debug\squareNumber.csproj.SuggestedBindingRedirects.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\squareNumber\squareNumber\obj\Debug\squareNumber.csproj.CoreCompileInputs.cache
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\squareNumber\squareNumber\obj\Debug\squareNumber.exe
-E:\MKPITS_Tanmay_Patil_Feb2023\C#_Programs\squareNumber\squareNumber\obj\Debug\squareNumber.pdb
