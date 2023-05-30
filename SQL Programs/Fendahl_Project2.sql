@@ -66,6 +66,11 @@ insert into TableCourseRegDetail values (4,1,'MK',1),
 (16,2,'Ananya',2)
 select * from TableCourseRegDetail
 
+-----4 table is repeated with extra l in table name and made identity to column CourseRegID. to add record from the win form to the database. 
+create table TableCourseRegDetaill (CourseRegID int primary key identity , CategoryID int , FullName varchar (1500) , GenderID int )
+select * from TableCourseRegDetaill
+
+
 ----5 Table TableRegAddress -----
 create table TableRegAddress (RegAddressID int primary key , CourseRegID int , NationID int , StateID int , CityID int ,
 constraint t3 foreign key (CourseRegID) references TableCourseRegDetail (CourseRegID),
@@ -88,10 +93,27 @@ insert into TableRegAddress values(2,5,4,104,1009),
 (13,16,1,101,1002)
 select * from TableRegAddress
 
+----5th table TableRegAddress repeated because we have to make RegAddressID column identity for taking records from win form. 
+create table TableRegAddress1 (RegAddressID int primary key identity , CourseRegID int , NationID int , StateID int , CityID int ,
+constraint tt3 foreign key (CourseRegID) references TableCourseRegDetail (CourseRegID),
+constraint tt4 foreign key (NationID) references TableNation (NationID),
+constraint tt5 foreign key (StateID) references TableState (StateID),
+constraint tt6 foreign key (CityID) references TableCity (CityID))
+select * from TableRegAddress1
+
+----5th table TableRegAddress repeated because we have to make RegAddressID column identity for taking records from win form. 
+create table TableRegAddress2 (RegAddressID int primary key identity , CourseRegID int , NationID int , StateID int , CityID int ,
+constraint ttt3 foreign key (CourseRegID) references TableCourseRegDetaill (CourseRegID),
+constraint ttt4 foreign key (NationID) references TableNation (NationID),
+constraint ttt5 foreign key (StateID) references TableState (StateID),
+constraint ttt6 foreign key (CityID) references TableCity (CityID))
+select * from TableRegAddress2
+
+
 
 ---- 6 table TableFeeDeatil ----
-create table TableFeeDetail (FeeID int primary key identity , CourseRegID int , TotalAmount decimal , MinPer decimal, PaidAmount decimal , BalAmount decimal , PaidDate datetime ,
-constraint t7 foreign key (CourseRegID) references TableCourseRegDetail (CourseRegID))
+create table TableFeeDetail1 (FeeID int primary key identity , CourseRegID int , TotalAmount decimal , MinPer decimal, PaidAmount decimal , BalAmount decimal , PaidDate datetime ,
+constraint tt7 foreign key (CourseRegID) references TableCourseRegDetaill (CourseRegID))
 
 insert into TableFeeDetail values (4,1000,0,500,500,'2023-04-10'),
 (5,3000,0,20,2980,'2023-04-04'),
@@ -106,7 +128,9 @@ insert into TableFeeDetail values (4,1000,0,500,500,'2023-04-10'),
 (14,3000,2400,2400,600,'2023-04-10'),
 (15,1000,500,500,500,'2023-04-10'),
 (16,3000,2400,2500,500,'2023-04-10')
-select * from TableFeeDetail
+select * from TableFeeDetail1
+
+insert into TableFeeDetail values (@CourseRegID,@TotalAmount,@MinPer,@ PaidAmount,@BalAmount,@PaidDate)
 
 
 
