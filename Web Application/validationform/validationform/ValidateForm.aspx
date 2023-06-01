@@ -59,7 +59,7 @@
                     <asp:TextBox ID="TextBox1" runat="server" CssClass="auto-style5"></asp:TextBox>
                 </td>
                 <td>
-                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="TextBox1" CssClass="auto-style5" ErrorMessage="RequiredFieldValidator">Enter First Name</asp:RequiredFieldValidator>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="TextBox1" CssClass="auto-style5" ErrorMessage="fil first name please">Enter First Name</asp:RequiredFieldValidator>
                 </td>
             </tr>
             <tr>
@@ -77,6 +77,25 @@
                     <asp:TextBox ID="TextBox3" runat="server" CssClass="auto-style5" TextMode="Password"></asp:TextBox>
                 </td>
                 <td class="auto-style5">&nbsp;</td>
+            </tr>
+            <tr>
+                <td class="auto-style7">Age</td>
+                <td class="auto-style4">
+                    <asp:TextBox ID="TextBox4" runat="server"></asp:TextBox>
+                </td>
+                <td class="auto-style5">
+                    <asp:RangeValidator ID="RangeValidator1" runat="server" ControlToValidate="TextBox4" Display="Dynamic" ErrorMessage="Age should be 18 to 40 only" MaximumValue="40" MinimumValue="18" Type="Integer">Specially for females enter real age </asp:RangeValidator>
+                    <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TextBox4" Display="Dynamic" ErrorMessage="please enter the age ">Age cannot be empty </asp:RequiredFieldValidator>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style7">Email</td>
+                <td class="auto-style4">
+                    <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+                </td>
+                <td class="auto-style5">
+                    <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="TextBox5" ErrorMessage="Email id is not valid " ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*">please Enter email id </asp:RegularExpressionValidator>
+                </td>
             </tr>
             <tr>
                 <td class="auto-style7">&nbsp;</td>
