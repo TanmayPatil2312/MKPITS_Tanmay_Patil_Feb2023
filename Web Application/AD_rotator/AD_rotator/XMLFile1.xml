@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisments>
+	<AD>
+		<ImageUrl>
+			Dubai.jpg
+		</ImageUrl>
+		<Impression> 8 </Impression>
+	</AD>
+	<AD>
+		<ImageUrl>
+			Dubai3.jpg
+		</ImageUrl>
+		<Impression> 6 </Impression>
+	</AD>
+	<AD>
+		<ImageUrl>
+			Dubai2.jpg
+		</ImageUrl>
+		<Impression> 2 </Impression>
+	</AD>
+</Advertisments>
