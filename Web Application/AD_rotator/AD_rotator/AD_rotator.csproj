@@ -68,7 +68,9 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ad_rotator.aspx" />
+    <Content Include="Dubai-2 - Copy.jpg" />
     <Content Include="Dubai-2.jpg" />
+    <Content Include="Dubai-3 - Copy.jpg" />
     <Content Include="Dubai-3.jpg" />
     <Content Include="Dubai.jpg" />
     <Content Include="Web.config" />

@@ -1,21 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<Advertisments>
-	<AD>
-		<ImageUrl>
-			Dubai.jpg
-		</ImageUrl>
-		<Impression> 8 </Impression>
-	</AD>
-	<AD>
-		<ImageUrl>
-			Dubai3.jpg
-		</ImageUrl>
-		<Impression> 6 </Impression>
-	</AD>
-	<AD>
-		<ImageUrl>
-			Dubai2.jpg
-		</ImageUrl>
-		<Impression> 2 </Impression>
-	</AD>
-</Advertisments>
+<Advertisements>
+	<Ad>
+		<ImageUrl>Dubai.jpg</ImageUrl>
+		<Impressions> 8 </Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>Dubai-3.jpg</ImageUrl>
+		<Impressions> 6 </Impressions>
+	</Ad>
+	<Ad>
+		<ImageUrl>Dubai-2.jpg</ImageUrl>
+		<Impressions> 2 </Impressions>
+	</Ad>
+</Advertisements>
