@@ -13,6 +13,7 @@ namespace querystring
         {
             string username = Request.QueryString["username"].ToString();
             Label1.Text = username;
+            //Response.Write(username);
         }
     }
 }
