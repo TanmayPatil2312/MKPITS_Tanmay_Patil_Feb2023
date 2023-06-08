@@ -12,9 +12,10 @@
 </head>
 <body>
     <form id="form1" runat="server">
+        </form>
        <div class="container">
   <h2>Vertical (basic) form</h2>
-  <form action="/action_page.php">
+  <form action="submit.aspx">
     <div class="form-group">
       <label for="email">Email:</label>
       <input type="email" class="form-control" id="email" placeholder="Enter email" name="email">
