@@ -431,6 +431,7 @@
             this.textBox14.Size = new System.Drawing.Size(105, 22);
             this.textBox14.TabIndex = 11;
             this.textBox14.TextChanged += new System.EventHandler(this.textBox14_TextChanged);
+            this.textBox14.Leave += new System.EventHandler(this.textBox14_Leave);
             // 
             // label16
             // 

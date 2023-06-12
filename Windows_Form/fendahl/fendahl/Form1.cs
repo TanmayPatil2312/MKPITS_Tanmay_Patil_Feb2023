@@ -72,6 +72,7 @@ namespace fendahl
             textBox3.Text = CGST.ToString();
             textBox4.Text = SGST.ToString();
             textBox5.Text = Convert.ToString(Convert.ToInt32(textBox3.Text) + Convert.ToInt32(textBox4.Text));
+            calculate_total();
         }
 
         private void radioButton2_CheckedChanged(object sender, EventArgs e)
@@ -80,6 +81,7 @@ namespace fendahl
             textBox3.Text = CGST.ToString();
             textBox4.Text = SGST.ToString();
             textBox5.Text = IGST.ToString();
+            calculate_total();
 
         }
 

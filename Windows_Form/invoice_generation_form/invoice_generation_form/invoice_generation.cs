@@ -59,7 +59,7 @@ namespace invoice_generation_form
         //            LAST_NAME VARCHAR(30),GENDER VARCHAR(10),
         //MOBILE VARCHAR(20),PAID_AMOUNT DECIMAL)
 
-        public static DataSet Getcustomer(string FIRST_NAME, string LAST_NAME, string GENDER, string MOBILE_NO, decimal PAID_AMOUNT)
+        public static string Getcustomer(string FIRST_NAME, string LAST_NAME, string GENDER, string MOBILE_NO, decimal PAID_AMOUNT)
         {
             SqlConnection conn = GetConnection();
             conn.Open();

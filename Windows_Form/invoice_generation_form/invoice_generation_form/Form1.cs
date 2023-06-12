@@ -19,6 +19,7 @@ namespace invoice_generation_form
         enum paymentmode { cash, EMI }
         paymentmode mode;
         enum Gender { Male, Female, Other }
+        Gender gender;
 
         public Form1()
         {
@@ -121,18 +122,7 @@ namespace invoice_generation_form
 
         private void textBox14_TextChanged(object sender, EventArgs e)
         {
-            mode = paymentmode.EMI;
-            double total = Convert.ToDouble(textBox6.Text);
-            double paid = Convert.ToDouble(textBox14.Text);
-            if (paid > total)
-            {
-                MessageBox.Show("paid amount not greater than total amount");
-            }
-            else
-            {
-                double netamount = Convert.ToDouble(textBox9.Text) - Convert.ToDouble(textBox14.Text);
-                textBox15.Text = netamount.ToString();
-            }
+           
 
             //mode = paymentmode.EMI;
             //if(radioButton5.Checked)
@@ -159,8 +149,24 @@ namespace invoice_generation_form
             {
                 gender = "female";
             }
-            //string result = invoice_generation.Getcustomer(textBox11.Text, textBox12.Text, gender, textBox13.Text, Convert.ToDecimal(textBox14.Text));
-            //MessageBox.Show(result);
+            string result = invoice_generation.Getcustomer(textBox11.Text, textBox12.Text, gender, textBox13.Text, Convert.ToDecimal(textBox14.Text));
+            MessageBox.Show(result);
+        }
+
+        private void textBox14_Leave(object sender, EventArgs e)
+        {
+            mode = paymentmode.EMI;
+            double total = Convert.ToDouble(textBox6.Text);
+            double paid = Convert.ToDouble(textBox14.Text);
+            if (paid > total)
+            {
+                MessageBox.Show("paid amount not greater than total amount");
+            }
+            else
+            {
+                double netamount = Convert.ToDouble(textBox6.Text) - Convert.ToDouble(textBox14.Text);
+                textBox15.Text = netamount.ToString();
+            }
         }
     }
 }
