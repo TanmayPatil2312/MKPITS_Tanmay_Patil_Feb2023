@@ -90,7 +90,7 @@ namespace aspx_insert_update_delete_search
             loaddata();
         }
 
-        protected void Button4_Click(object sender, EventArgs e)
+        protected void Button4_Click(object sender, EventArgs e)  //Delete
         {
             str = "delete from customer where customer_id=@customer_id";
             SqlCommand command = new SqlCommand(str, conn);
@@ -106,7 +106,7 @@ namespace aspx_insert_update_delete_search
             loaddata();
         }
 
-        protected void Button5_Click(object sender, EventArgs e)
+        protected void Button5_Click(object sender, EventArgs e)   //Search
         {
             str = "select * from customer where customer_id=@customer_id";
             da = new SqlDataAdapter(str, conn);
