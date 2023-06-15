@@ -117,7 +117,7 @@
         </tr>
         <tr __designer:mapid="11">
             <td __designer:mapid="12" class="auto-style28">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
-                <asp:Button ID="Button4" runat="server" Text="SEARCH" />
+                <asp:Button ID="Button4" runat="server" Text="SEARCH" OnClick="Button4_Click" />
                 &nbsp;&nbsp;</td>
             <td __designer:mapid="13" class="auto-style29">&nbsp; Grid view Below
                 <br />

@@ -86,5 +86,20 @@ namespace trust_us
            
             loaddata();
         }
+
+        protected void Button4_Click(object sender, EventArgs e) ///search
+        {
+            str = "select * from Item_Master where Item_Id=@Item_Id";
+            da = new SqlDataAdapter(str, conn);
+            da.SelectCommand.Parameters.AddWithValue("@Item_Id", Convert.ToInt32(TextBox8.Text));
+            da.Fill(ds, "Item_Master");
+
+            TextBox8.Text = ds.Tables["Item_Master"].Rows[0].ItemArray[1].ToString();
+            //TextBox3.Text = ds.Tables["customer"].Rows[0].ItemArray[2].ToString();
+            //TextBox4.Text = ds.Tables["customer"].Rows[0].ItemArray[3].ToString();
+
+            GridView1.DataSource = ds.Tables["Item_Master"].DefaultView;
+            GridView1.DataBind();
+        }
     }
 }

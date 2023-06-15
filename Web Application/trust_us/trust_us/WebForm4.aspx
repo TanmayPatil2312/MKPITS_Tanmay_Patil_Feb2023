@@ -7,9 +7,6 @@
             border-style: solid;
             border-width: 5px;
         }
-        .auto-style17 {
-            width: 330px;
-        }
         .auto-style22 {
             width: 248px;
             height: 78px;
@@ -60,31 +57,49 @@
                 </td>
             </tr>
             <tr __designer:mapid="1c">
-                <td __designer:mapid="1d" class="auto-style17">&nbsp;</td>
-                <td __designer:mapid="1e">&nbsp;</td>
+                <td __designer:mapid="1d" class="auto-style30">Vendor ID :-</td>
+                <td __designer:mapid="1e">
+                    <asp:TextBox ID="TextBox5" runat="server"></asp:TextBox>
+                </td>
             </tr>
             <tr>
                 <td __designer:mapid="12" class="auto-style22">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-                    <asp:Button ID="Button1" runat="server" Text="ADD" />
+                    <asp:Button ID="Button1" runat="server" Text="ADD" OnClick="Button1_Click" />
                 </td>
                 <td __designer:mapid="13" class="auto-style23"></td>
             </tr>
             <tr>
-                <td __designer:mapid="12" class="auto-style24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<asp:Button ID="Button2" runat="server" Text="MODIFY" />
+                <td __designer:mapid="12" class="auto-style24">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;<asp:Button ID="Button2" runat="server" Text="MODIFY" OnClick="Button2_Click" />
                     &nbsp;</td>
                 <td __designer:mapid="13" class="auto-style25"></td>
             </tr>
             <tr>
                 <td __designer:mapid="12" class="auto-style26">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:Button ID="Button3" runat="server" Text="DELETE" />
+                    <asp:Button ID="Button3" runat="server" Text="DELETE" OnClick="Button3_Click" />
                     &nbsp;</td>
                 <td __designer:mapid="13" class="auto-style27"></td>
             </tr>
             <tr>
                 <td __designer:mapid="12" class="auto-style28">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;
-                    <asp:Button ID="Button4" runat="server" Text="SEARCH" />
+                    <asp:Button ID="Button4" runat="server" Text="SEARCH" OnClick="Button4_Click" />
                     &nbsp;&nbsp;</td>
                 <td __designer:mapid="13" class="auto-style29"></td>
+            </tr>
+            <tr>
+                <td __designer:mapid="12" class="auto-style28">Grid View This Side --&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:Button ID="Button5" runat="server" OnClick="Button5_Click" Text="Show Grid View " />
+                </td>
+                <td __designer:mapid="13" class="auto-style29">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                    <asp:GridView ID="GridView1" runat="server">
+                    </asp:GridView>
+                    &nbsp;</td>
+            </tr>
+            <tr>
+                <td __designer:mapid="12" class="auto-style28">Result --------&gt;</td>
+                <td __designer:mapid="13" class="auto-style29">
+                    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label>
+                </td>
             </tr>
         </table>
 &nbsp;</p>
