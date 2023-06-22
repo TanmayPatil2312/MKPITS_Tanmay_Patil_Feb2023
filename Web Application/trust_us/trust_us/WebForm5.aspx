@@ -56,13 +56,15 @@
             <tr __designer:mapid="3c">
                 <td __designer:mapid="3d" class="auto-style32">Item Name :</td>
                 <td __designer:mapid="3e" class="auto-style26">
-                    <asp:TextBox ID="TextBox11" runat="server"></asp:TextBox>
+                    <asp:DropDownList ID="DropDownList3" runat="server" DataSourceID="SqlDataSource3" DataTextField="Item_Name" DataValueField="Item_Id">
+                    </asp:DropDownList>
+                    <asp:SqlDataSource ID="SqlDataSource3" runat="server" ConnectionString="<%$ ConnectionStrings:trust_meConnectionString %>" SelectCommand="SELECT [Item_Name], [Item_Id] FROM [Item_Master]"></asp:SqlDataSource>
                 </td>
             </tr>
             <tr __designer:mapid="3c">
                 <td __designer:mapid="3d" class="auto-style35">Transaction Date:-</td>
                 <td __designer:mapid="3e" class="auto-style26">
-                    <asp:TextBox ID="TextBox10" runat="server" TextMode="DateTime"></asp:TextBox>
+                    <asp:TextBox ID="TextBox10" runat="server" TextMode="Date"></asp:TextBox>
                 </td>
             </tr>
             <tr __designer:mapid="3c">
@@ -70,8 +72,9 @@
                     <asp:Label ID="Label2" runat="server" Text="Department_Name:"></asp:Label>
                 </td>
                 <td __designer:mapid="3e" class="auto-style26">
-                    <asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="SqlDataSource1" DataTextField="Department_name" DataValueField="Department_id">
+                    <asp:DropDownList ID="DropDownList1" runat="server" DataSourceID="SqlDataSource4" DataTextField="Department_name" DataValueField="Department_id">
                     </asp:DropDownList>
+                    <asp:SqlDataSource ID="SqlDataSource4" runat="server" ConnectionString="<%$ ConnectionStrings:trust_meConnectionString %>" SelectCommand="SELECT [Department_id], [Department_name] FROM [Department_mast]"></asp:SqlDataSource>
                     <asp:SqlDataSource ID="SqlDataSource1" runat="server" ConnectionString="<%$ ConnectionStrings:trust_meConnectionString %>" ProviderName="<%$ ConnectionStrings:trust_meConnectionString.ProviderName %>" SelectCommand="SELECT [Department_id], [Department_name] FROM [Department_mast]"></asp:SqlDataSource>
                 </td>
             </tr>
@@ -94,7 +97,7 @@
             <tr __designer:mapid="44">
                 <td __designer:mapid="45" class="auto-style27"></td>
                 <td __designer:mapid="46" class="auto-style28">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Submit" />
+                    <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Submit" style="height: 29px" />
                     &nbsp;</td>
             </tr>
             <tr __designer:mapid="44">

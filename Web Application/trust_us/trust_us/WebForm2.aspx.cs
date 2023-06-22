@@ -25,7 +25,7 @@ namespace trust_us
         protected void Button1_Click(object sender, EventArgs e) //Add
         {
             // ADD button code in item page 
-            str = "insert into Item_Master values(@Item_Name,@Category,@rate,@balance_quantity";
+            str = "insert into Item_Master values(@Item_Name,@Category,@rate,@balance_quantity)";
             SqlCommand command = new SqlCommand(str, conn);
             //command.Parameters.AddWithValue("@Item_id", Convert.ToInt32(TextBox5.Text));
             command.Parameters.AddWithValue("@Item_Name", TextBox5.Text); 

@@ -5,6 +5,8 @@ Item_Name varchar (500) not null ,
 Category varchar (500) not null , 
 rate int ,
 balance_quantity int not null)
+
+
 select * from Item_Master
 insert into Item_Master values('mobile','electronic',200,100)
 update Item_Master set Item_Name='pho' where Item_Name='phone'
@@ -29,4 +31,7 @@ constraint c2 foreign key (Vendor_id) references
 Vendor_mast (Vendor_id),
 constraint c3 foreign key (Item_Id) references 
 Item_Master  (Item_Id))
+
+
 select * from Transactions
+select * from Item_Master
