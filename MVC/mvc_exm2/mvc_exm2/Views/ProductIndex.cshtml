@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome to Product Page </h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+}
+
+@{
+    <h2> Product Information Given Below </h2>
+    string prodname = "Rain Fighter Raincoat";
+    int prodid = 11;
+    int price = 2500;
+    int quantity = 2;
+}
+<p>Product Id  : @prodid</p>
+<p> Product Name : @prodname</p>
+<p>Product Price  : @price</p>
+<p>Product Quantity  : @quantity</p>

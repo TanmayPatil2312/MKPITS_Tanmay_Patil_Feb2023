@@ -1,0 +1,36 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@model mvcaccount.Models.Account
+
+@using (Html.BeginForm("Index", "Bank", FormMethod.Post))
+{
+    <b> Enter account no : </b>
+
+    @Html.TextBoxFor(m=>m.Accountno)
+    <br />
+    <br />
+    <b> Enter amount :</b>
+    @Html.TextBoxFor(m=>m.amount)
+    <br />
+    <br />
+    <b> select type :</b>
+    @Html.DropDownListFor(m=>m.gettranstype,new SelectList(Enum.GetValues(typeof(transtype))),"select")
+    <br />
+    <br />
+    <input type=submit value="ok" />
+    <br />
+    <br />
+
+}
+
+<h1>transaction Details :</h1>
+
+Account No : @ViewBag.accountno
+<br />
+Balance amount : @ViewBag.balance

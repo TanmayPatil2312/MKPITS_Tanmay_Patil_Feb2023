@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+        @*if else prog *@
+
+@{
+    string name = "tanu";
+    if (name == "tanu")
+    {
+        <p> tanu is unique modal </p>
+    }
+    else
+    {
+        <p> tanu is comman girl </p>
+    }
+}
+
+            @*if else if else *@
+@{
+    int age = 18;
+    
+    if (age<=18)
+    {
+        <p> valid age to vote </p>
+    }
+    else if (age >=18)
+    {
+        <p> Not  a valid age to vote </p>
+    }
+    else
+    {
+        <p> Not a valid voter you have </p>
+    }
+}
+
+            @*if else if else grade  *@
+@{
+    var per = 16;
+
+    if (per >= 75)
+    {
+        <p> grade : distinction </p>
+    }
+    else if (per>=60 && per < 60)
+    {
+        
+    }
+}
+                @*for loop *@
+@{
+    int i = 5;
+    for (i = 0; i <= 5; i++)
+    {
+        <p> Number is : @i</p>
+    }
+}
+
+
+
+        
+

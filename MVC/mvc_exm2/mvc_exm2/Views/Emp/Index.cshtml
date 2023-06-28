@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    <div class="text-center">
+        <h1 class="display-4">Welcome to Employee Page </h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+}
+
+@{
+    <h2> Employee Information Given Below </h2>
+    string Empname = "Tanushree";
+    int empno = 1;
+    string designation = "Sales Executive";
+    int salary = 25000;
+}
+<p>Employee Name : @Empname</p>
+<p> Employee No: @empno</p>
+<p>Designation  : @designation</p>
+<p>Emp Salary  : @salary</p>
+
+@{
+    <p>@DateTime.Now</p>
+    <p>@DateTime.IsLeapYear(2016)</p>
+}
+
+@{
+    <p>Last week this time: @(DateTime.Now - TimeSpan.FromDays(7))</p>
+    <p>Last week: @DateTime.Now - TimeSpan.FromDays(7)</p>
+}
+
+@{
+    var coco = new EmpClass("Coco", "marketing", 01 , 30000);
+}
+
+@{
+    <p>Employee Id @(coco.empid)</p>
+    <p>Name@(coco.Name)</p>
+    <p>Designation@(coco.designation)</p>
+    <p>Salary@(coco.salary)</p>
+
+
+}
+

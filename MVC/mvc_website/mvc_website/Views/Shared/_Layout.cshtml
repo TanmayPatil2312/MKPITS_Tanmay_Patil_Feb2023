@@ -1,0 +1,99 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - mvc_website</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/mvc_website.styles.css" asp-append-version="true" />
+    <style>
+        /*navbar */
+        ul {
+            list-style-type: none;
+            position: sticky;
+            overflow: hidden;
+            top: 0;
+            width: 100%;
+        }
+
+        /*li {
+            float: left;
+            border-right: 1px solid white;
+        }
+
+            li a {
+                display: block;
+                padding: 8px;
+                background-color: orange;
+            }
+
+            li:last-child {
+                border-right: none;
+            }
+
+        div {
+            padding: 5px;
+            margin-top: 5px;
+            background-color: white;
+            height: 1000px;
+        }*/
+    </style>
+</head>
+           
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-blue border-bottom box-shadow mb-3" style="background-color:dodgerblue">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index" style="font-family:georgia,garamond,serif; font-weight:bold; font-size:20px;"> DGital </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1" style="font-family:georgia,garamond,serif; font-weight:bold; font-size:20px; text-align:right; text-shadow:4px 4px 8px blue; text-align:center; text-decoration:blink;">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Services</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Project</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Pages +</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Contact</a>
+                        </li>
+
+
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+     @*footer section *@
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - mvc_website - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

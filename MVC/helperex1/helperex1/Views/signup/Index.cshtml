@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model helperex1.Models.signup
+<h1>signup up Form</h1>
+@using (Html.BeginForm("index", "signup", FormMethod.Post))
+{
+    <b>Enter UserName:</b>
+    @Html.TextBoxFor(m=>m.username)
+    <br />
+    <br />
+    <b>Enter Password:</b>
+    @Html.PasswordFor(m=>m.password)
+    <br />
+    <br />
+    <input type="submit" value="sign up" />
+
+
+}
+<h1>signup details</h1>
+Username is :@ViewBag.username
+<br />
+<br />
+Password is :@ViewBag.password
+<br />
+<br />
+
