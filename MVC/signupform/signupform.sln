@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "signupform", "signupform\signupform.csproj", "{6930E3C5-A20C-47E4-A2AD-4A0B8FEDB41C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6930E3C5-A20C-47E4-A2AD-4A0B8FEDB41C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6930E3C5-A20C-47E4-A2AD-4A0B8FEDB41C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6930E3C5-A20C-47E4-A2AD-4A0B8FEDB41C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6930E3C5-A20C-47E4-A2AD-4A0B8FEDB41C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C85CE28F-248E-45C0-B270-AF7CEADD3AB1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+@model HtmlHelperDemo.Models.UseModel
+@using (Html.BeginForm("Index","Home",FormMethod.Post))
+{
+    <b>Want additional Benifit</b>
+    <br/>
+    <span>Tea:</span>@Html.CheckBoxFor(m=>m.Tea,true)
+    <span>Loundary:</span>@Html.CheckBoxFor(m=>m.Loundary,false)
+    <span>Breakup:</span>@Html.CheckBoxFor(m=>m.Breakfast,false)
+}

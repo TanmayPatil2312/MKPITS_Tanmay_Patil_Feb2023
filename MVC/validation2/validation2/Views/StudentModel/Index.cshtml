@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Home Page - Student Details";
+
+}
+
+
+@model validation2.Models.StudentModel
+<h2> Student Details </h2>
+
+@using (Html.BeginForm("Index","StudentModel",FormMethod.Post))
+{
+    <ol>
+        <li>
+            @Html.LabelFor(m=>m.Name)
+            @Html.TextBoxFor(m=>m.Name)
+            @Html.ValidationMessageFor(m=>m.Name)
+
+        </li>
+        <li>
+            @Html.LabelFor(m=>m.Email)
+            @Html.TextBoxFor(m=>m.Email)
+            @Html.ValidationMessageFor(m=>m.Email)
+        </li>
+        <li>
+            @Html.LabelFor(m=>m.ConfirmEmail)
+            @Html.TextBoxFor(m=>m.ConfirmEmail)
+            @Html.ValidationMessageFor(m=>m.ConfirmEmail)
+        </li>
+        <li>
+            @Html.LabelFor(m=>m.Age)
+            @Html.TextBoxFor(m=>m.Age)
+            @Html.ValidationMessageFor(m=>m.Age)
+        </li>
+    </ol>
+    <input type="submit" value="Save Student Details "/>
+}
+
+<h3 style="color:green"> Student Details </h3>
+<h4 style="color:green"> 
+    <b>Name :<b/> @ViewBag.Name <br />
+    <b>Email :<b/> @ViewBag.Email <br />
+    <b>Age :<b/> @ViewBag.Age <br />
+</h4>

@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+@model radiobuttonfor.Models.Usermodel
+@using (Html.BeginForm("Index", "Home", FormMethod.Post))
+{
+
+    <b>Want calculation: </b>
+    <br />
+    <span>number 1: </span> @Html.TextBoxFor(m => m.number1)
+    <br />
+    <span>number 2: </span> @Html.TextBoxFor(m => m.number2)
+
+    <br />
+    <span>add: </span> @Html.RadioButtonFor(m=>m.caltype,"add")
+    <span> | substract: </span> @Html.RadioButtonFor(m => m.caltype,"sub")
+    <span> | multiply: </span> @Html.RadioButtonFor(m => m.caltype,"mul")
+    <br />
+    <input type="submit" value="ok" />
+
+}
+<hr />
+<h4>calculation result</h4>
+<b>result : </b>@ViewBag.res
+<br />
